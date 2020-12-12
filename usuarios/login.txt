@@ -1,1 +1,0 @@
-Hola,1234;Carlos,1234;1,1;2,2;,;d,;dd,3;Carlos :;Titulo:<PyQt5.QtWidgets.QLineEdit object at 0x02F04D18>;Descripcion:<PyQt5.QtWidgets.QPlainTextEdit object at 0x02F04B68>;Fecha:2020-12-07;Hora:07:07;Julito,1234;
