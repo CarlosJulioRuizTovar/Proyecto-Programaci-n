@@ -33,7 +33,7 @@ Ejecutar los siguientes comandos para instalar las librerías y archivos adicion
 
 • from PyQt5 import QtCore, QtWidgets
 
-![_init_](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos/blob/main/Festividades.png)
-![GuardarTxt](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos/blob/main/Festividades1.png)
-![Anexar evento](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos/blob/main/Festividades2.png)
-![FijarAlarma](https://github.com/CarlosJulioRuizTovar/Taller-de-archivos/blob/main/Festividades2.png)
+![_init_](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/_init_.jpeg)
+![GuardarTxt](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/GuardarTxt.jpeg)
+![Anexar evento](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/Anexareventos.jpeg)
+![FijarAlarma](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/FijarAlarma.jpeg)
