@@ -1,1 +1,0 @@
-CreateObject("WScript.Shell").Popup 22222222, 12, 111111111, 0 + 64 
