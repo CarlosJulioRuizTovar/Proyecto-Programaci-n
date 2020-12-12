@@ -35,5 +35,5 @@ Ejecutar los siguientes comandos para instalar las librerías y archivos adicion
 
 ![_init_](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/_init_.jpeg)
 ![GuardarTxt](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/GuardarTxt.jpeg)
-![Anexar evento](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/Anexareventos.jpeg)
+![Anexareventos](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/Anexareventos.jpeg)
 ![FijarAlarma](https://github.com/CarlosJulioRuizTovar/Proyecto-Programacion/blob/main/FijarAlarma.jpeg)
