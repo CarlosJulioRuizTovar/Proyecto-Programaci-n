@@ -1,0 +1,22 @@
+import tkinter as tk
+import os
+import sys
+from PyQt5.QtWidgets import QDialog, QApplication, QMainWindow
+from Calendario import Dialog
+from web_Scrapping import Web_Scrapping
+from Agendar_evento import AgendarE
+from Login import*
+from datetime import datetime
+from PyQt5 import QtCore, QtWidgets
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+import ssl
+import sys
+from PyQt5.QtWidgets import QDialog, QApplication, QMainWindow
+from Dias_Feriados import Festivos_Window
+import requests
+from PyQt5.QtGui import QPixmap
+from Cambiar_imagen import Dialog
+from PyQt5 import QtCore, QtWidgets
+from PyQt5 import QtCore, QtWidgets
+from PyQt5 import QtCore, QtWidgets
